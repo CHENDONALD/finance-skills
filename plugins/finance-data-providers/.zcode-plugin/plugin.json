@@ -1,0 +1,23 @@
+{
+  "name": "finance-data-providers",
+  "version": "11.1.0",
+  "description": "External API data — sentiment via Adanos, Fintel short-interest/ownership intelligence, Hormuz Strait monitoring, TradingView via a bundled headless MCP server or the desktop reader, and Hyperliquid perp/spot reader.",
+  "skills": [
+    "./skills/finance-sentiment",
+    "./skills/fintel-data",
+    "./skills/hormuz-strait",
+    "./skills/hyperliquid-reader",
+    "./skills/tradingview-mcp",
+    "./skills/tradingview-reader"
+  ],
+  "mcpServers": {
+    "tradingview": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        "git+https://github.com/atilaahmettaner/tradingview-mcp@3281434dfd78628dfecbcef53b7ffcdb6c6182c2",
+        "tradingview-mcp"
+      ]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "finance-ui-tools",
+  "version": "11.1.0",
+  "description": "Generative UI design system for rendering interactive HTML/SVG widgets in Claude conversations.",
+  "skills": [
+    "./skills/generative-ui"
+  ]
+}

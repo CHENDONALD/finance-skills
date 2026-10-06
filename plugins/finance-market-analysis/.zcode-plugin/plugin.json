@@ -1,0 +1,18 @@
+{
+  "name": "finance-market-analysis",
+  "version": "11.1.0",
+  "description": "Stock analysis, earnings, estimates, correlations, liquidity, ETFs, options payoff, and trading strategies via yfinance.",
+  "skills": [
+    "./skills/company-valuation",
+    "./skills/earnings-preview",
+    "./skills/earnings-recap",
+    "./skills/estimate-analysis",
+    "./skills/etf-premium",
+    "./skills/options-payoff",
+    "./skills/saas-valuation-compression",
+    "./skills/sepa-strategy",
+    "./skills/stock-correlation",
+    "./skills/stock-liquidity",
+    "./skills/yfinance-data"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "finance-social-readers",
+  "version": "11.1.0",
+  "description": "Read-only social media and research feeds — Twitter/X, Discord, LinkedIn, Telegram, Y Combinator, plus a generic opencli fallback covering 100+ finance/research sources (Yahoo Finance, Bloomberg, Reuters, Eastmoney, Xueqiu, Reddit, HackerNews, Substack, arXiv, etc.).",
+  "skills": [
+    "./skills/discord-reader",
+    "./skills/linkedin-reader",
+    "./skills/opencli-reader",
+    "./skills/telegram-reader",
+    "./skills/twitter-reader",
+    "./skills/yc-reader"
+  ]
+}
