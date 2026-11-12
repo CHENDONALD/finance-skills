@@ -1,6 +1,6 @@
 {
   "name": "finance-startup-tools",
-  "version": "11.1.0",
+  "version": "11.2.1",
   "description": "Multi-perspective startup analysis frameworks for VC investors, job applicants, and founders.",
   "skills": [
     "./skills/startup-analysis"

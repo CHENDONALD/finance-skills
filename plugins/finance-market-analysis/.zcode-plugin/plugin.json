@@ -1,6 +1,6 @@
 {
   "name": "finance-market-analysis",
-  "version": "11.1.0",
+  "version": "11.2.1",
   "description": "Stock analysis, earnings, estimates, correlations, liquidity, ETFs, options payoff, and trading strategies via yfinance.",
   "skills": [
     "./skills/company-valuation",
